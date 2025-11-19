@@ -1,0 +1,27 @@
+pandas==0.25.3
+pyodbc==4.0.32
+python-dotenv
+requests==2.22.0
+sqlalchemy==1.4.36
+flask
+Flask-Cors
+#matplotlib
+datetime
+#geopandas
+#shapely
+#netCDF4
+xarray
+#scipy
+# fuzzywuzzy
+#cryptography==2.8
+#azure-storage-file-share
+numpy==1.17.4
+
+# pydap
+# h5netcdf
+# PyNIO==1.0
+# zarr
+# cftime
+# PseudoNetCDF
+# iris
+# cfgrib
